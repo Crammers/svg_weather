@@ -1,0 +1,11 @@
+<svg version="1.1" id="mist" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="600px" height="600px" viewBox="0 0 600 600" style="enable-background:new 0 0 600 600;" xml:space="preserve">
+<style type="text/css">
+	.mist{fill:none;stroke:#B3B3B3;stroke-width:12;stroke-miterlimit:10;}
+</style>
+<g>
+	<path class="mist" d="M102,208.1c163.2-12.2,319.5-69.1,484-70.9"/>
+	<path class="mist" d="M58,241.1c164-7.1,320.4-60.6,484-71.7"/>
+	<path class="mist" d="M14,272.8c165.1-1.2,320.9-51.8,484-69.2"/>
+</g>
+</svg>
