@@ -1,6 +1,6 @@
 # svg_weather
 
-![sunny day](icons/sunny_day.svg)
+![sunny day](Icons/sunny_day.svg)
 
 
 Collection of weather icons in SVG format
